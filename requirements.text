@@ -1,0 +1,10 @@
+flask
+flask-cors
+tensorflow-cpu
+gunicorn
+streamlit
+pandas
+joblib
+scikit-learn
+numpy
+pymongo
